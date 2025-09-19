@@ -1,0 +1,129 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-07-17 11:14+0545\n"
+"PO-Revision-Date: 2025-07-17 11:40+0545\n"
+"Last-Translator: Sabin Prajapati <EMAIL@ADDRESS>\n"
+"Language-Team: Nepali <ne@li.org>\n"
+"Language: ne\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: api/views.py:57
+msgid "Set Your Equity Everest Password"
+msgstr "आफ्नो इक्विटी एभरेस्ट पासवर्ड सेट गर्नुहोस्"
+
+#: api/views.py:58
+#, python-brace-format
+msgid ""
+"Hi {username},\n"
+"\n"
+"Welcome! Click the link below to set your password:\n"
+"{link}"
+msgstr ""
+"नमस्ते {username},\n"
+"\n"
+"स्वागत छ! आफ्नो पासवर्ड सेट गर्न तलको लिङ्कमा क्लिक गर्नुहोस्:\n"
+"{link}"
+
+#: api/views.py:67
+msgid "User registered successfully! Password setup link sent to email."
+msgstr "प्रयोगकर्ता सफलतापूर्वक दर्ता भयो! पासवर्ड सेटअप लिङ्क इमेलमा पठाइएको छ।"
+
+#: api/views.py:84
+msgid "Refresh token required."
+msgstr "रिफ्रेश टोकन आवश्यक छ।"
+
+#: api/views.py:88
+msgid "Logged out successfully"
+msgstr "सफलतापूर्वक लगआउट भयो"
+
+#: api/views.py:91
+msgid "Invalid refresh token"
+msgstr "अवैध रिफ्रेश टोकन"
+
+#: api/views.py:101
+msgid "Email is required"
+msgstr "इमेल आवश्यक छ"
+
+#: api/views.py:110
+msgid "Password Reset Request"
+msgstr "पासवर्ड रिसेट अनुरोध"
+
+#: api/views.py:111
+#, python-brace-format
+msgid ""
+"Hi {username},\n"
+"\n"
+"Click the link below to reset your password:\n"
+"{link}"
+msgstr ""
+"नमस्ते {username},\n"
+"\n"
+"तपाईंको पासवर्ड रिसेट गर्न तलको लिङ्कमा क्लिक गर्नुहोस्:\n"
+"{link}"
+
+#: api/views.py:120
+msgid "If that email exists, a reset link has been sent."
+msgstr "यदि उक्त इमेल अवस्थित छ भने, रिसेट लिङ्क पठाइएको छ।"
+
+#: api/views.py:132
+msgid "Invalid user or UID"
+msgstr "अवैध प्रयोगकर्ता वा UID"
+
+#: api/views.py:135
+msgid "Invalid or expired token"
+msgstr "अवैध वा म्याद समाप्त भएको टोकन"
+
+#: api/views.py:139
+msgid "New password is required"
+msgstr "नयाँ पासवर्ड आवश्यक छ"
+
+#: api/views.py:144
+msgid "Password has been reset successfully"
+msgstr "पासवर्ड सफलतापूर्वक रिसेट गरियो"
+
+#: api/views.py:224 api/views.py:295
+msgid "ID and current_value required."
+msgstr "ID र हालको मूल्य आवश्यक छ।"
+
+#: api/views.py:231
+msgid "Invalid current_value format."
+msgstr "अवैध हालको मूल्य ढाँचा।"
+
+#: api/views.py:234
+msgid "Investment updated successfully."
+msgstr "लगानी सफलतापूर्वक अद्यावधिक गरियो।"
+
+#: api/views.py:290
+msgid "Vote recorded."
+msgstr "मत सुरक्षित गरियो।"
+
+#: api/views.py:337
+msgid "SEBON Official Website"
+msgstr "सेबोनको आधिकारिक वेबसाइट"
+
+#: api/views.py:338
+msgid "ShareSansar"
+msgstr "सेयर संसार"
+
+#: api/views.py:339
+msgid "Investment Guide - Basics"
+msgstr "लगानी मार्गदर्शक - आधारभूत"
+
+#: equity_everest/settings.py:185
+msgid "English"
+msgstr "अङ्ग्रेजी"
+
+#: equity_everest/settings.py:186
+msgid "Nepali"
+msgstr "नेपाली"

@@ -1,4 +1,4 @@
-# 🏔️ Everest Equity - Backend
+# 🏔️ Investment-Club - Backend
 
 > A Django REST Framework API for managing investments, contributions, proposals, voting, and meetings for an investment club.
 
@@ -28,7 +28,7 @@
 1. **Clone the repository**:
 
    ```bash
-   git clone git@github.com:MindRisers-Technologies/Everest_equity-backend.git
+   git clone git@github.com:sabinpr/Investment-Club.git
    cd equity_everest
    ```
 
@@ -97,4 +97,3 @@
 - 🌐 [SEBON Official Website](https://www.sebon.gov.np)
 - 🌐 [ShareSansar](https://www.sharesansar.com)
 - 🌐 [Investment Guide - Basics](https://www.investmentguide.com/basics)
-# Investment-Club

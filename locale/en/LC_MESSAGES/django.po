@@ -1,0 +1,120 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-07-17 11:14+0545\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+#: api/views.py:57
+msgid "Set Your Equity Everest Password"
+msgstr ""
+
+#: api/views.py:58
+#, python-brace-format
+msgid ""
+"Hi {username},\n"
+"\n"
+"Welcome! Click the link below to set your password:\n"
+"{link}"
+msgstr ""
+
+#: api/views.py:67
+msgid "User registered successfully! Password setup link sent to email."
+msgstr ""
+
+#: api/views.py:84
+msgid "Refresh token required."
+msgstr ""
+
+#: api/views.py:88
+msgid "Logged out successfully"
+msgstr ""
+
+#: api/views.py:91
+msgid "Invalid refresh token"
+msgstr ""
+
+#: api/views.py:101
+msgid "Email is required"
+msgstr ""
+
+#: api/views.py:110
+msgid "Password Reset Request"
+msgstr ""
+
+#: api/views.py:111
+#, python-brace-format
+msgid ""
+"Hi {username},\n"
+"\n"
+"Click the link below to reset your password:\n"
+"{link}"
+msgstr ""
+
+#: api/views.py:120
+msgid "If that email exists, a reset link has been sent."
+msgstr ""
+
+#: api/views.py:132
+msgid "Invalid user or UID"
+msgstr ""
+
+#: api/views.py:135
+msgid "Invalid or expired token"
+msgstr ""
+
+#: api/views.py:139
+msgid "New password is required"
+msgstr ""
+
+#: api/views.py:144
+msgid "Password has been reset successfully"
+msgstr ""
+
+#: api/views.py:224 api/views.py:295
+msgid "ID and current_value required."
+msgstr ""
+
+#: api/views.py:231
+msgid "Invalid current_value format."
+msgstr ""
+
+#: api/views.py:234
+msgid "Investment updated successfully."
+msgstr ""
+
+#: api/views.py:290
+msgid "Vote recorded."
+msgstr ""
+
+#: api/views.py:337
+msgid "SEBON Official Website"
+msgstr ""
+
+#: api/views.py:338
+msgid "ShareSansar"
+msgstr ""
+
+#: api/views.py:339
+msgid "Investment Guide - Basics"
+msgstr ""
+
+#: equity_everest/settings.py:185
+msgid "English"
+msgstr ""
+
+#: equity_everest/settings.py:186
+msgid "Nepali"
+msgstr ""
